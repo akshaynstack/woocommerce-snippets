@@ -1,4 +1,4 @@
-<p align="center"><a href="https://woocommerce.com/"><img src="https://woocommerce.com/wp-content/themes/woo/images/logo-woocommerce@2x.png" alt="WooCommerce"></a></p>
+<p align="center"><a href="https://woocommerce.com/"><img src="https://cdn.discordapp.com/attachments/937702103906934834/962023415764615239/woo-snippets.png" alt="WooCommerce Snippets"></a></p>
 
 <p align="center">
 <a href="https://packagist.org/packages/woocommerce/woocommerce"><img src="https://poser.pugx.org/woocommerce/woocommerce/license" alt="license"></a> 
